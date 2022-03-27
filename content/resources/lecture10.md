@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 063439fc-d697-4666-48f7-caf5d330d88b
 resourcetype: Document
 title: BioPharmaceuticals
 uid: fbdf6af1-774d-7a34-d3c3-846338683817

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3cd12e23-df02-92ca-7b12-e29391732e68
 resourcetype: Document
 title: Michael Lytton
 uid: 5981779c-7981-593d-a89b-d62ab45e4cf8

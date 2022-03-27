@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e6f78280-56c5-bc29-84ee-c4a849cd04ee
 resourcetype: Document
 title: Refugee Absorption and Sustainability
 uid: a84d9580-e82a-8243-d573-101dee3d05b9

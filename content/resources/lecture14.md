@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 063439fc-d697-4666-48f7-caf5d330d88b
 resourcetype: Document
 title: Final Overview and Lessons Learned
 uid: 37ce064b-4e0d-6196-b5ce-8d4aa158ea01

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c2b921b8-005a-66e8-a6d5-65a4629eb24d
 resourcetype: Document
 title: Project Requirements
 uid: 6e38d711-8792-42e0-5869-55bab0d7ae4a

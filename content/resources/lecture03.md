@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 063439fc-d697-4666-48f7-caf5d330d88b
 resourcetype: Document
 title: New Systems for Drug Delivery
 uid: 4281132d-7e90-013a-5248-c593a4517293

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e6f78280-56c5-bc29-84ee-c4a849cd04ee
 resourcetype: Document
 title: Deploying Rapid CD-4 Tests for HIV/AIDS
 uid: 6cba488f-e10b-d01f-f5a2-23a6e6296c61

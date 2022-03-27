@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3cd12e23-df02-92ca-7b12-e29391732e68
 resourcetype: Document
 title: David Berry
 uid: 6deb1eb3-4d3a-d55c-8a2a-181f081485d6

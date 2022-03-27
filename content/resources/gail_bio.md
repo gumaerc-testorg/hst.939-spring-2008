@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3cd12e23-df02-92ca-7b12-e29391732e68
 resourcetype: Document
 title: Gail Cassell
 uid: d2a09a38-5c14-d4b5-6198-c69c996b70a7

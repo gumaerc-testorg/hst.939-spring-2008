@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 063439fc-d697-4666-48f7-caf5d330d88b
 resourcetype: Document
 title: 'Simple Solutions: Zero-Cost Diagnostics'
 uid: 320f660f-17f8-e77c-233d-47efcac76ef3

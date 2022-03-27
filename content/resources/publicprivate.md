@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e6f78280-56c5-bc29-84ee-c4a849cd04ee
 resourcetype: Document
 title: Public Private Partnerships for Health
 uid: a9cab6e1-b449-c20f-3ca7-eda31a6ee28f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 063439fc-d697-4666-48f7-caf5d330d88b
 resourcetype: Document
 title: 'Medical Device Development: Medtronic'
 uid: 93d12b85-21d5-3fd5-3cf1-d9d666e910ff
