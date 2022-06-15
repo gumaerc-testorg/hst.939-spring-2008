@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on course meeting times, OCW and class web sites, course directors, objectives,
+  scope, mission, educational goals, course elements, teaching methods, tutorial,
+  grading, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

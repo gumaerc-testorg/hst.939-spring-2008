@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with information on the lecturers and student-written lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,14 +38,14 @@ Overview
 {{< tdopen >}}
 
 
-Jeffrey Blander ([PDF]({{< baseurl >}}/resources/blander_bio))
+Jeffrey Blander ({{% resource_link af230ad8-d226-4f24-4d0b-f527f2130fd4 "PDF" %}})
 
-Utkan Demirci ([PDF]({{< baseurl >}}/resources/utkan_bio))
+Utkan Demirci ({{% resource_link 6275b2c7-8a97-c877-04cc-f3051e49eac1 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture01))
+({{% resource_link 89de5cf1-f6e9-9597-0b11-3664242e82f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,10 +57,10 @@ Utkan Demirci ([PDF]({{< baseurl >}}/resources/utkan_bio))
 Expanding global access to life saving vaccines: HPV vaccine case study
 {{< tdclose >}}
 {{< tdopen >}}
-Jacqueline Sherris ([PDF]({{< baseurl >}}/resources/jacqueline_bio))
+Jacqueline Sherris ({{% resource_link 5cc868fe-b276-9527-9d98-6f7bb686efcd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture02))
+({{% resource_link d8a88a5e-4d00-8666-ee4e-2b0b953ec272 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,10 +72,10 @@ Jacqueline Sherris ([PDF]({{< baseurl >}}/resources/jacqueline_bio))
 New systems for drug delivery
 {{< tdclose >}}
 {{< tdopen >}}
-Robert Langer ([PDF]({{< baseurl >}}/resources/robert_bio))
+Robert Langer ({{% resource_link 53a3f814-fc69-6edc-1bf0-57d32b03d9e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture03))
+({{% resource_link 4281132d-7e90-013a-5248-c593a4517293 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,16 +89,16 @@ Microfluidics and global health practice
 {{< tdopen >}}
 
 
-David Steinmiller ([PDF]({{< baseurl >}}/resources/david_st_bio))
+David Steinmiller ({{% resource_link 81edcfbe-cca6-e3b8-4e6a-8d4754d2a994 "PDF" %}})
 
-Elizabeth Bailey ([PDF]({{< baseurl >}}/resources/elizabeth_bio))
+Elizabeth Bailey ({{% resource_link ca3451b1-55c4-54b5-7e31-8acbdd761e35 "PDF" %}})
 
-Michael Lytton ([PDF]({{< baseurl >}}/resources/michael_bio))
+Michael Lytton ({{% resource_link 5981779c-7981-593d-a89b-d62ab45e4cf8 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture04))
+({{% resource_link a6c657f2-fb49-d7d0-f1fa-606b0878f177 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Michael Lytton ([PDF]({{< baseurl >}}/resources/michael_bio))
 Alternative energy sources
 {{< tdclose >}}
 {{< tdopen >}}
-David Berry ([PDF]({{< baseurl >}}/resources/david_bio))
+David Berry ({{% resource_link 6deb1eb3-4d3a-d55c-8a2a-181f081485d6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -126,7 +128,7 @@ R&D for resource poor settings
 George Whitesides
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture06))
+({{% resource_link 320f660f-17f8-e77c-233d-47efcac76ef3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Field trip to [BAMM Labs](http://bammlabs.com/) (Bio-Acoustic MEMS in Medicine
 Utkan Demerci
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture07))
+({{% resource_link e903860a-f6a7-a006-caa7-a0614af680d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +158,7 @@ Medical device development
 Trevor Gunn
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture08))
+({{% resource_link 93d12b85-21d5-3fd5-3cf1-d9d666e910ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,9 +172,9 @@ Electronic medical records and research systems
 {{< tdopen >}}
 
 
-Ben Bauman ([PDF]({{< baseurl >}}/resources/ben_bio))
+Ben Bauman ({{% resource_link 37c82cff-a06f-8b46-ee18-27be2751a113 "PDF" %}})
 
-Vikram Kumar ([PDF]({{< baseurl >}}/resources/vikram_bio))
+Vikram Kumar ({{% resource_link 945546b7-b55f-8887-740c-2604582ab1fb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -193,12 +195,12 @@ BioPharmaceuticals
 
 Joanna Lowell, BVGH
 
-Gail Cassell ([PDF]({{< baseurl >}}/resources/gail_bio))
+Gail Cassell ({{% resource_link d2a09a38-5c14-d4b5-6198-c69c996b70a7 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link fbdf6af1-774d-7a34-d3c3-846338683817 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Vaccines development
 Kalpana Gupta, IAVI
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link e0656311-4a80-caff-c6e2-b4925ac8770a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,10 +227,10 @@ Kalpana Gupta, IAVI
 Technology innovation
 {{< tdclose >}}
 {{< tdopen >}}
-Kris Olsen ([PDF]({{< baseurl >}}/resources/kristian_bio))
+Kris Olsen ({{% resource_link d9fb593a-7c62-f317-193c-a1e1d3fc5fe3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link 8e05e2ee-a031-e26f-c76d-69696ae86d10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Venture philanthropy
 Brian Trelstad, Omer Imtiazuddin
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture13))
+({{% resource_link f0124b6f-d5b5-58b0-db12-2da57f1d036f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
