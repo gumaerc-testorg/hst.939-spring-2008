@@ -6,6 +6,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Medical Device Development: Medtronic'
 uid: 93d12b85-21d5-3fd5-3cf1-d9d666e910ff
 ---
 Lecture notes on medical device development with guest speaker Trevor Gunn, director of international relations for Medtronic.
-

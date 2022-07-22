@@ -6,6 +6,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction
 uid: 89de5cf1-f6e9-9597-0b11-3664242e82f0
 ---
 Lecture notes with an overview of the course and discussion of infectious diseases and innovations.
-

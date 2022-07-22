@@ -6,6 +6,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: New Systems for Drug Delivery
 uid: 4281132d-7e90-013a-5248-c593a4517293
 ---
 Lecture notes on new systems for drug delivery. Also includes discussion of course projects.
-

@@ -7,6 +7,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: BioPharmaceuticals
 uid: fbdf6af1-774d-7a34-d3c3-846338683817
 ---
 Lecture notes on biopharmeceutical innovation. Includes an introduction, a lecture by Joanna Lowell, and a lecture by Lecture by Gail Cassell, VP of international affairs at Ely Lilly.
-

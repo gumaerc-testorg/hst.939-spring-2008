@@ -10,10 +10,10 @@ image_metadata:
   image-alt: Photo of a two-wheeled ambulance cart attached to rear of bicycle, carrying
     a reclining patient.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-939s08-th.jpg
 uid: d30f36c3-5a7b-a5e1-a936-85cb8005b8c5
 ---
 New image Upload
-

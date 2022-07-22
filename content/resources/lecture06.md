@@ -5,6 +5,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Simple Solutions: Zero-Cost Diagnostics'
 uid: 320f660f-17f8-e77c-233d-47efcac76ef3
 ---
 Lecture notes on zero-cost diagnostics.
-

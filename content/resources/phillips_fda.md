@@ -7,6 +7,7 @@ file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Everything You Ever Wanted to Know about Medical Device Marketing Clearan
 uid: 854be2b4-eb22-9759-9678-2eddb95e3e61
 ---
 Reading assignment: Phillips, R. "Everything You Ever Wanted to Know about Medical Device Marketing Clearance." Center for Devices and Radiological Health, U. S. Food and Drug Administration.
-
