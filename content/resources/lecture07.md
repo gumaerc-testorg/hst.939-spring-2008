@@ -4,6 +4,7 @@ description: Lecture notes on health systems strengthening, systems, human resou
   in health, informatics, financing (both of the system, and of insurance/user fees),
   logistics and supplies, quality assurance, and interactive cases.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/e903860af6a7a006caa7a0614af680d9_lecture07.pdf
+file_size: 85284
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
