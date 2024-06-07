@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on vaccines development with guest lecturer Dr. Kalpana
   Gupta from IAVI.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/e06563114a80caffc6e2b4925ac8770a_lecture11.pdf
+file_size: 87805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: A list of possible topics for the course project with information on
   contacts, areas of interest, organization, and host country.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/253835090ca96fd408ac22c032978c75_projects.pdf
+file_size: 41619
 file_type: application/pdf
 learning_resource_types:
 - Projects
