@@ -4,6 +4,7 @@ description: "Lecture notes on technology innovation with guest lecturer Kristia
   \ Olson from CIMIT:\r\nGlobal Health Technology Development and Implementation:\
   \ A Clinician\u2019s Perspective."
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/8e05e2eea031e26fc76d69696ae86d10_lecture12.pdf
+file_size: 86109
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

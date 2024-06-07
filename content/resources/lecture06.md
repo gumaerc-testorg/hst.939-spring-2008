@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on zero-cost diagnostics.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/320f660f17f8e77c233d47efcac76ef3_lecture06.pdf
+file_size: 94255
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
