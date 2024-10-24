@@ -2,7 +2,7 @@
 content_type: resource
 description: Biography of Utkan Demirci, an Instructor (Assistant Professor) at Harvard-MIT
   Health Sciences and Technology and Harvard Medical School.
-file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6275b2c78a97c87704ccf3051e49eac1_utkan_bio.pdf
+file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6275b2c78a97c87704ccf3051e49eac1_utkan_bio.pdf
 file_size: 80559
 file_type: application/pdf
 learning_resource_types: []
