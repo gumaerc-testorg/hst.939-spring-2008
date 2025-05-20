@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on new systems for drug delivery. Also includes discussion
   of course projects.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/4281132d7e90013a5248c593a4517293_lecture03.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/4281132d7e90013a5248c593a4517293_lecture03.pdf
 file_size: 87730
 file_type: application/pdf
 learning_resource_types:

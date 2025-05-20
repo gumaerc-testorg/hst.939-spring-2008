@@ -57,7 +57,7 @@ World Health Organization (WHO). "[Global Health: Today's Challenges](http://www
 
 United Republic of Tanzania. Annual Health Statistical Abstract, 2006.
 
-Chapters in [*Disease Control Priorities in Developing Countries*](http://www.dcp2.org/pubs/DCP) (DCP). 2nd ed. World Bank, 2006.
+Chapters in [*Disease Control Priorities in Developing Countries*](https://www.ncbi.nlm.nih.gov/books/NBK11728/) (DCP). 2nd ed. World Bank, 2006.
 
 - Dye, C., and K. Floyd. Chapter 16, "Tuberculosis."
 - Bertozzi, S., et al. Chapter 18, "HIV/AIDS Prevention and Treatment."
@@ -92,7 +92,7 @@ New systems for drug delivery
 
 ### Noncommunicable Disease (NCD)
 
-Chapters in [*Disease Control Priorities in Developing Countries*](http://www.dcp2.org/pubs/DCP) (DCP). 2nd ed. World Bank, 2006.
+Chapters in [*Disease Control Priorities in Developing Countries*](https://www.ncbi.nlm.nih.gov/books/NBK11728/) (DCP). 2nd ed. World Bank, 2006.
 
 - Simoes, E. A. F., et al. Chapter 25, "Acute Respiratory Infections in Children."
 - Brown, M. L., et al. Chapter 29, "Health Service Interventions for Cancer Control in Developing Countries."
@@ -111,7 +111,7 @@ Betz, F. "Technology and Society," and "New High-Tech Businesses." Chapters 1 an
 
 ### Systems and HRH
 
-Mills, A., F. Rasheed, and S. Tollman. "Strengthening Health Systems." Chapter 3 in [*Disease Control Priorities in Developing Countries*](http://www.dcp2.org/pubs/DCP) (DCP). 2nd ed. World Bank, 2006.
+Mills, A., F. Rasheed, and S. Tollman. "Strengthening Health Systems." Chapter 3 in [*Disease Control Priorities in Developing Countries*](https://www.ncbi.nlm.nih.gov/books/NBK11747/) (DCP). 2nd ed. World Bank, 2006.
 
 Zanzibar Ministry of Health and Social Welfare. "Human Resource for Health 5-year Development Plan, 2004/05-2008/09" (Final Draft).
 
@@ -272,7 +272,7 @@ Vaccines development
 
  
 
-Foster, S., et al. "Ensuring Supplies of Appropriate Drugs and Vaccines." Chapter 72 in [*Disease Control Priorities in Developing Countries*](http://www.dcp2.org/pubs/DCP) (DCP). 2nd ed. World Bank, 2006.
+Foster, S., et al. "Ensuring Supplies of Appropriate Drugs and Vaccines." Chapter 72 in [*Disease Control Priorities in Developing Countries*](https://www.ncbi.nlm.nih.gov/books/NBK11723/) (DCP). 2nd ed. World Bank, 2006.
 
 Batson, A., et al. "Chapter 26: Innovative Financing Mechanisms to Accelerate the Introduction of HPV Vaccines in Developing Countries." *Vaccine* 24, Supplement 3 (2006): S3/219-S3/225.
 
