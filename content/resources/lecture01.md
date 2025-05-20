@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an overview of the course and discussion of infectious
   diseases and innovations.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/89de5cf1f6e995970b113664242e82f0_lecture01.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/89de5cf1f6e995970b113664242e82f0_lecture01.pdf
 file_size: 82850
 file_type: application/pdf
 learning_resource_types:
