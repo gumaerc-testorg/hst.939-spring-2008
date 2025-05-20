@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Biography of Jeffrey Blander.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/af230ad8d2264f244d0bf527f2130fd4_blander_bio.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/af230ad8d2264f244d0bf527f2130fd4_blander_bio.pdf
 file_size: 80178
 file_type: application/pdf
 learning_resource_types: []

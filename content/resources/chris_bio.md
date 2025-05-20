@@ -2,7 +2,7 @@
 content_type: resource
 description: Biography of Chris D. Earl, President and CEO, BIO Ventures for Global
   Health.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/1dc1acedf266a41f2394008bbe24b690_chris_bio.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/1dc1acedf266a41f2394008bbe24b690_chris_bio.pdf
 file_size: 79874
 file_type: application/pdf
 learning_resource_types: []

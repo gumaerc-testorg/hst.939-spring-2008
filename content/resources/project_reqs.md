@@ -5,7 +5,7 @@ description: Guidelines and requirements for completing a design project in coll
   the project will evolve into a summer research project. Students will give an oral
   presentation about their project at the end of the term, and will turn in a final
   paper.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6e38d711879242e0586955bab0d7ae4a_project_reqs.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6e38d711879242e0586955bab0d7ae4a_project_reqs.pdf
 file_size: 99337
 file_type: application/pdf
 learning_resource_types:

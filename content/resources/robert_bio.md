@@ -2,7 +2,7 @@
 content_type: resource
 description: Biography of Robert Langer, Institute Professor at the Massachusetts
   Institute of Technology.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/53a3f814fc696edc1bf057d32b03d9e2_robert_bio.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/53a3f814fc696edc1bf057d32b03d9e2_robert_bio.pdf
 file_size: 81558
 file_type: application/pdf
 learning_resource_types: []

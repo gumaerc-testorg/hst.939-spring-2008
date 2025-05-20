@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/d30f36c35a7ba5e1a93685cb8005b8c5_hst-939s08-th.jpg
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/d30f36c35a7ba5e1a93685cb8005b8c5_hst-939s08-th.jpg
 file_size: 7292
 file_type: image/jpeg
 image_metadata:

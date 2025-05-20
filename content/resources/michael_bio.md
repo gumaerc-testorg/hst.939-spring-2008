@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Biography of Michael Lytton of Oxford Bioscience Partners.
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/5981779c7981593da89bd62ab45e4cf8_michael_bio.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/5981779c7981593da89bd62ab45e4cf8_michael_bio.pdf
 file_size: 80682
 file_type: application/pdf
 learning_resource_types: []

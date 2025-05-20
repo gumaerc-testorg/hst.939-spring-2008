@@ -3,7 +3,7 @@ content_type: resource
 description: 'Reading assignment: Phillips, R. "Everything You Ever Wanted to Know
   about Medical Device Marketing Clearance." Center for Devices and Radiological Health,
   U. S. Food and Drug Administration.'
-file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/854be2b4eb22975996782eddb95e3e61_phillips_fda.pdf
+file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/854be2b4eb22975996782eddb95e3e61_phillips_fda.pdf
 file_size: 639164
 file_type: application/pdf
 learning_resource_types:
