@@ -2,7 +2,7 @@
 content_type: resource
 description: Biography of Jacqueline Sherris, PhD. Vice President, Global Programs,
   PATH.
-file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/5cc868feb27695279d986f7bb686efcd_jacqueline_bio.pdf
+file: /ol-ocw-studio-app/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/5cc868feb27695279d986f7bb686efcd_jacqueline_bio.pdf
 file_size: 80835
 file_type: application/pdf
 learning_resource_types: []
