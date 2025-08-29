@@ -199,7 +199,7 @@ Tanzania, "The National Science and Technology Policy for Tanzania." 1996 ([PDF 
 {{< tdclose >}}{{< tdopen >}}
 Field trip to BAMM laboratory
 {{< tdclose >}}{{< tdopen >}}
-Prof. Demirci's [BAMM Labs](http://www.bammlabs.com/)
+Prof. Demirci's [BAMM Labs](https://bammlab.stanford.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
