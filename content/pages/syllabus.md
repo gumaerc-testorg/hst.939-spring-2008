@@ -18,7 +18,7 @@ Lectures: 1 session / week, 3 hours / session
 OCW and Class Web Sites
 -----------------------
 
-This OCW web site presents selected class materials cleared for open distribution under MIT OpenCourseWare's [Creative Commons](/terms/#cc) license. Other materials related to the subject, including more recent versions of the class, may be found at the [class web site](http://www.limsforum.com/courses/designing-and-sustaining-technology-innovation-for-global-health-practice-mit-hst939/).
+This OCW web site presents selected class materials cleared for open distribution under MIT OpenCourseWare's [Creative Commons](/terms/#cc) license. Other materials related to the subject, including more recent versions of the class, may be found at the {{% resource_link "5457a3ce-5fe4-4356-9eb6-fae60362b488" "class web site" %}}.
 
 Course Directors
 ----------------
