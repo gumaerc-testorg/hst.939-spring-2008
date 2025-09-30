@@ -137,7 +137,7 @@ George Whitesides
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to [BAMM Labs](http://bammlabs.com/) (Bio-Acoustic MEMS in Medicine)
+Field trip to {{% resource_link "a1a633b2-d75b-4a43-a1e1-d632d3955ddd" "BAMM Labs" %}} (Bio-Acoustic MEMS in Medicine)
 {{< tdclose >}}
 {{< tdopen >}}
 Utkan Demerci
